@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Mulish', sans-serif;
+    src: url('../font/static/Mulish-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mulish', sans-serif;
+    src: url('../font/static/Mulish-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mulish', sans-serif;
+    src: url('../font/static/Mulish-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* @font-face {
+    font-family: 'Mulish', sans-serif;
+    src: url('../font/static/Mulish-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+} */
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('../font/roboto/Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tactic Sans Extra Extended Ultra';
+    src: url('../font/static/Mulish-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('../font/roboto/Roboto-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mulish', sans-serif;
+    src: url('../font/static/Mulish-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BarlowCondensed';
+    src: url('../font/static/Mulish-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../font/raleway/Raleway-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
