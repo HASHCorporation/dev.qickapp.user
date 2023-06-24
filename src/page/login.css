@@ -1,0 +1,157 @@
+body {
+  font-family: 'Roboto', sans-serif !important;
+  background: #333 !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.login-wrap {
+  background: #ffffff;
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+  height: 510px;
+  max-width: 380px !important;
+}
+
+.login-wrap .loginLogo {
+  width: 150px;
+  display: block;
+  margin: auto;
+}
+.login-wrap .MuiGrid-root {
+  padding: 0;
+  margin: 0;
+  display: block;
+  max-width: 100%;
+  flex-basis: 100%;
+}
+
+.login-wrap .loginTxt {
+  font-family: 'Mulish', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  color: #252733;
+  margin-bottom: 12px;
+}
+
+.login-wrap .filterInput {
+  position: relative;
+}
+
+.login-wrap .error {
+  position: initial;
+  margin-top: -8px;
+}
+
+.login-wrap p {
+  font-family: 'Mulish', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.30000001192092896px;
+  text-align: center;
+  color: #9fa2b4;
+}
+
+.login-wrap .css-h5fkc8 {
+  margin-top: 40px;
+}
+
+.login-wrap .css-h5fkc8 label {
+  font-family: 'Mulish', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: left;
+  color: #9fa2b4;
+  margin-bottom: 10px !important;
+}
+
+.login-wrap .css-h5fkc8 input {
+  background: #fcfdfe;
+  border: 1px solid #f0f1f7;
+  box-sizing: border-box;
+  border-radius: 8px;
+  margin-bottom: 10px !important;
+}
+
+.passwordLogininput {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+  top: 14px;
+  z-index: 999;
+}
+
+.passwordLogininput a {
+  font-family: 'Mulish', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 13px;
+  text-align: right;
+
+  color: #9fa2b4;
+  text-decoration: none;
+}
+
+.login-wrap .Dontaccount {
+  font-family: 'Mulish', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  margin-bottom: 40px;
+  color: #9fa2b4;
+}
+
+.login-wrap .Dontaccount a {
+  color: #0d60e9;
+  margin-left: 5px;
+}
+
+.register-block-forms .MuiBox-root.css-h5fkc8 {
+  margin-top: 0 !important;
+}
+
+.loginpassword {
+  position: relative;
+}
+
+.loginpassword .btn {
+  position: absolute;
+  height: 14px;
+  width: 18px;
+  top: 0;
+  right: 0;
+  transform: translate(-15px, 30px);
+  padding: 0;
+}
+
+.loginpassword .btn:active,
+.loginpassword .btn:hover,
+.loginpassword .btn:focus {
+  border-color: transparent;
+  box-shadow: none;
+  background: transparent !important;
+}
+
+.btnSubmit-secondary {
+  background: #0d60e9 !important;
+  box-shadow: 0px 4px 12px rgba(55, 81, 255, 0.24) !important;
+  border-radius: 8px !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  line-height: 20px !important;
+  text-align: center !important;
+  color: #fff !important;
+}
+.btnSubmit-secondary:hover {
+  opacity: 0.9 !important;
+  background: #0d60e9;
+  color: #fff;
+}
